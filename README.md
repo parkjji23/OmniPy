@@ -4,4 +4,5 @@
 ## Games
 ### 1. dinoGame
 - path : /game/dinoGame
+- character : https://blog.naver.com/211grims/221141687362
 - link : https://infossam.oopy.io/a6b8f132-8369-415e-bf78-c6d7065f0f2e
